@@ -1,6 +1,6 @@
 # selenium-Projects-parts1
 
-# this example represents a project collection. each class represents a
+# this example represents a project collection. each class represents a separate project
 
 # it's a maven project. this type of project allows you to facilitate the management of dependencies.
 
