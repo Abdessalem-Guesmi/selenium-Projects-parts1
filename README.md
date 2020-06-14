@@ -1,4 +1,4 @@
-# selenium-Projects-parts1
+# selenium-Projects-part1
 
 # this example represents a project collection. each class represents a separate project
 
